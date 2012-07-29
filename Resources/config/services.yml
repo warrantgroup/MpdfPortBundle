@@ -1,0 +1,4 @@
+#MPDF
+services:
+    mpdfport:
+        class: TFox\Bundle\MpdfPortBundle\Factories\MPdfFactory
