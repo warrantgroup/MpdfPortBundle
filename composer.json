@@ -1,7 +1,7 @@
 {
     "name": "warrantgroup/mpdfbundle",
     "autoload": {
-        "psr-0": { "warrantgroup\\mpdfbundle": "" }
+        "psr-0": { "TFox\Bundle\MpdfPortBundle": "" }
     },
     "target-dir": "warrantgroup/mpdfbundle"
 }
