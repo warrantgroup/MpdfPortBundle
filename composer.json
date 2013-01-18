@@ -1,3 +1,7 @@
 {
-    "name": "warrantgroup/mpdfbundle"
+    "name": "warrantgroup/mpdfbundle",
+    "autoload": {
+        "psr-0": { "warrantgroup\\mpdfbundle": "" }
+    },
+    "target-dir": "warrantgroup/mpdfbundle"
 }
